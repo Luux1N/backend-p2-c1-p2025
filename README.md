@@ -1,2 +1,2 @@
-# backend-p2-c1-p2025
-Repositorio para las clases de backend de la seccion p2-c1
+# Backend-p2-c1-p2025
+Repositorio para la clase de backend de ka seccion p2-c1
